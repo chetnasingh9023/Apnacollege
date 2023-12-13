@@ -1,4 +1,4 @@
 # Apnacollege
 This is My first repository
 <br>
-Author- Chetna Singh
+Author- Chetna Singh(COGNIZANT)
